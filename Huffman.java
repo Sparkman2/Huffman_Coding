@@ -1,7 +1,3 @@
-/** 
- * You must need to implement this interface for any credit. 
- * Please do not modify this file
- */
 
 public interface Huffman {
 
