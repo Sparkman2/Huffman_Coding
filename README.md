@@ -1,5 +1,7 @@
 # Huffman_Coding
 
+You can run the code through the HuffmanCode.java file
+
 This project can compress a txt file or a jpeg by encoding the file and then decoding it.
 
 In the encoding method, I took the input file and attached them to a frequency map where I could get all the frequencies of each character. I then call the priority queue method which does the Huffman coding algorithm and then write the codes onto a binary tree. I then convert the binary codes into booleans so that it can be decoded. 
