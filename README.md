@@ -1,6 +1,6 @@
 # Huffman_Coding
 
-You can run the code through the HuffmanCode.java file
+You can run the code through the Huffman_Code.java file
 
 This project can compress a txt file or a jpeg by encoding the file and then decoding it.
 
